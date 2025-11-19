@@ -1,0 +1,13 @@
+# Ignorar arquivos compilados (binários)
+/bin/
+*.class
+
+# Ignorar arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
